@@ -13,12 +13,21 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
+<<<<<<< HEAD
+=======
+    
+    
+    
+    
+>>>>>>> 19eb8a5a23aa65c2728c338bcb1cf46caa346d70
     // MARK: UISceneSession Lifecycle
 
     func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
         return UISceneConfiguration(name: "Default Configuration", sessionRole: connectingSceneSession.role)
     }
 
+    
+    
     func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
         
     }
